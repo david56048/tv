@@ -1,0 +1,7 @@
+#EXTM3U url="https://raw.githubusercontent.com/david56048/tv/master/david56048tv.m3u"
+
+#EXTINF:-1,STARZ
+http://23.237.132.10:8081/live-2/430/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIwIDI6MTM6MjIgQU0maGFzaF92YWx1ZT1YbnRuSzg3RjdNSy9kLzN4U1Z5VzlRPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1,FOX ACTION
+http://23.237.132.10:8081/live-sd/344/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIwIDE6Mzk6NDcgQU0maGFzaF92YWx1ZT1Tb3VjZkl2citscDY4UW5YQXpydmlnPT0mdmFsaWRtaW51dGVzPTEyMA==
