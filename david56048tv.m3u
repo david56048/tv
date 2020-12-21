@@ -1,10 +1,10 @@
 #EXTM3U url="https://raw.githubusercontent.com/david56048/tv/master/david56048tv.m3u"
 
-#EXTINF:-1,STARZ
-http://23.237.132.10:8081/live-2/430/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIwIDI6MTM6MjIgQU0maGFzaF92YWx1ZT1YbnRuSzg3RjdNSy9kLzN4U1Z5VzlRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1,STARZ EDGE
+http://cdn89.sportsbay.site:2052/live-2/421/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyMCAyOjExOjMwIEFNJmhhc2hfdmFsdWU9bjJQMHV3VTF1VmEyRGxCVjVxWW9PQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
 
 #EXTINF:-1,FOX ACTION
 http://cdn89.sportsbay.site:2052/live-sd/344/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyMCAxOjI3OjQwIEFNJmhhc2hfdmFsdWU9a3dCZEVDZDduLysreEhLYWtCWHc4Zz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
 
-#EXTINF:-1,FOX SERIES
-http://23.237.78.50:8081/live-sd/346/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjAgMTI6MDI6MDUgQU0maGFzaF92YWx1ZT1aUmlLYUNQa0lCVm1yKzJvSTVvcWdBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yODAwOjQ4NDoxYTgwOjM0MDA6N2Q3NDpkMjRlOmFmNTc6OGRlZQ==
+#EXTINF:-1,HBO
+http://cdn89.sportsbay.site:2052/live-sd/347/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyMCAyOjEzOjU0IEFNJmhhc2hfdmFsdWU9MUdaYTErMWRtY1BhRTAvckl5OEtmUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
