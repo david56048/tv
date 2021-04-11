@@ -3,8 +3,11 @@
 #EXTINF:-1,STARZ EDGE
 http://cdn89.sportsbay.site:2052/live-2/421/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyMCAyOjExOjMwIEFNJmhhc2hfdmFsdWU9bjJQMHV3VTF1VmEyRGxCVjVxWW9PQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
 
-#EXTINF:-1,FOX ACTION
-http://cdn89.sportsbay.site:2052/live-2/092/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIxIDI6MDI6MzcgQU0maGFzaF92YWx1ZT1BTUZyOStURE1QSkIyZnByQllmVC9RPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+#EXTINF:-1,FOX ACTION HD
+http://cdn89.sportsbay.site:2052/live-2/092/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDEyOjUzOjQ1IEFNJmhhc2hfdmFsdWU9Wms0ckQ0ckcrbGdkekxodUlycXpJZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
+#EXTINF:-1,FOX ACTION SD
+http://cdn89.sportsbay.site:2052/live-sd/344/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDEyOjU1OjM5IEFNJmhhc2hfdmFsdWU9VS9uK2V2N3JZL0c0QXFOTEFreVZUZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
 
 #EXTINF:-1,HBO
 http://cdn89.sportsbay.site:2052/live-sd/347/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyMCAyOjEzOjU0IEFNJmhhc2hfdmFsdWU9MUdaYTErMWRtY1BhRTAvckl5OEtmUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
